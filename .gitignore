@@ -1,0 +1,14 @@
+# Copias locales e históricas (el historial vive en git y en Releases)
+Versiones/
+*.bak*
+* - Copy*.html
+~$*
+# Documentos de clientes y exportaciones
+*.docx
+*.xlsx
+*.pdf
+.DS_Store
+Thumbs.db
+desktop.ini
+# Edición interna con precios (solo local)
+*INTERNO*
