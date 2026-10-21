@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.2.1 — 2026-10-21
+- Storage externo adicional (iSCSI, NFS o FC) también con aSAN habilitado, desde *Tipo de clúster y almacenamiento*; se refleja en red, topología, BOM (HBA FC) y descripción.
+
 ## v1.2.0 — 2026-10-16
 - **Edición pública sin precios**: se eliminan del código todos los precios, descuentos y valores monetarios; el sizer opera siempre en modo sin precios (BOM con SKU y cantidades).
 - La edición con precios es de uso interno y no se publica en este repositorio.
