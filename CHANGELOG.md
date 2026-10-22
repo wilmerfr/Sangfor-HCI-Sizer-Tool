@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.2.3 — 2026-10-22
+- Contexto: nueva sección *Hardware de cómputo actual y capacidad* (inventario de servidores, CPU, RAM, discos y tarjetas de red con cantidades, velocidades y medios de conexión; necesidad de adquirir hardware; capacidad actual y planificada con RVTools si aplica).
+- Contexto: inventario y capacidad actual/planificada también para almacenamiento y red, más necesidad de adquirir equipamiento de red.
+- Contexto: nueva sección *Servicios y aplicaciones* (inventario, capacidad actual/planificada y servicios profesionales requeridos).
+
 ## v1.2.2 — 2026-10-22
 - Contexto: nueva pregunta sobre el almacenamiento de la solución (interno aSAN o externo SAN/NAS con protocolo: FC, iSCSI, NFS, SMB/CIFS, mixto).
 - Contexto: nueva pregunta para adjuntar o compartir el documento de topología de red.
