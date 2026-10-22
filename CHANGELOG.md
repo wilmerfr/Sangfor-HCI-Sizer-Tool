@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.2.2 — 2026-10-22
+- Contexto: nueva pregunta sobre el almacenamiento de la solución (interno aSAN o externo SAN/NAS con protocolo: FC, iSCSI, NFS, SMB/CIFS, mixto).
+- Contexto: nueva pregunta para adjuntar o compartir el documento de topología de red.
+- Nota formal en el contexto y en el cuestionario (copiar y Word) invitando a agregar información o documentación relevante y de cumplimiento obligatorio.
+
 ## v1.2.1 — 2026-10-21
 - Storage externo adicional (iSCSI, NFS o FC) también con aSAN habilitado, desde *Tipo de clúster y almacenamiento*; se refleja en red, topología, BOM (HBA FC) y descripción.
 
