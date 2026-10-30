@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.2.4 — 2026-10-30
+- Contexto: nueva sección *Componentes virtualizados*: almacenamiento virtualizado, seguridad virtualizada, Directorio Activo virtualizado y virtualización de redes (VMware NSX, Nutanix Flow, Cisco ACI u otro), con fabricante, modelo, cantidad y topología.
+
 ## v1.2.3 — 2026-10-22
 - Contexto: nueva sección *Hardware de cómputo actual y capacidad* (inventario de servidores, CPU, RAM, discos y tarjetas de red con cantidades, velocidades y medios de conexión; necesidad de adquirir hardware; capacidad actual y planificada con RVTools si aplica).
 - Contexto: inventario y capacidad actual/planificada también para almacenamiento y red, más necesidad de adquirir equipamiento de red.
