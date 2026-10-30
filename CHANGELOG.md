@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.2.5 — 2026-10-30
+- Slots PCIe disponibles según la ficha *Sangfor HCI Data Sheet 09/26*: aServer-X5-2205, X5-2305P y X5-2405 = 2 (de 4 totales); X5-2305P(12N) = 3; X5-1200 = 1; Z4-2405/2605 = 2.
+- El U2-SSD-Kit (necesario para NVMe U.2 o Memory Tiering en aServer X5) ocupa 1 slot PCIe: se descuenta de los slots disponibles y se valida junto con las tarjetas de red y HBA.
+
 ## v1.2.4 — 2026-10-30
 - Contexto: nueva sección *Componentes virtualizados*: almacenamiento virtualizado, seguridad virtualizada, Directorio Activo virtualizado y virtualización de redes (VMware NSX, Nutanix Flow, Cisco ACI u otro), con fabricante, modelo, cantidad y topología.
 
